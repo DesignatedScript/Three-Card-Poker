@@ -1,6 +1,6 @@
 ## Support
 
-**Support Email:** t.designated@icloud.com
+**Support Email:** t.designated@icloud.com [t.designated@icloud.com](t.designated@icloud.com)
 
 
 
