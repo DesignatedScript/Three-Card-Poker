@@ -1,3 +1,9 @@
+## Support
+
+**Support Email:** t.designated@icloud.com
+
+
+
 ## Privacy Policy
 
 Tom Blackhurst built the Three Card Poker app as an Ad Supported app. This SERVICE is provided by Tom Blackhurst at no cost and is intended for use as is.
@@ -69,4 +75,8 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 ## Testing
 # Testing
 Testing
+
+**Bold**
+_Italic_
+`Test`
 ```
