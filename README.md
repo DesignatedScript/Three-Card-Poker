@@ -1,8 +1,7 @@
 ## Support
 
 If you require any assistance, please do not hesitate to contact the developer using the email provided below.
-
-**Support Email:** t.designated@icloud.com
+ **Support Email:** t.designated@icloud.com
 
 
 
