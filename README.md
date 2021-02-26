@@ -3,8 +3,7 @@
 If you require any assistance, please do not hesitate to contact the developer using the email provided below.\
  **Support Email:** t.designated@icloud.com
 
-*   [Download](itms-services://?action=download-manifest&amp; 
-    url=https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist)
+*   [Download](itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist)
 
 
 
