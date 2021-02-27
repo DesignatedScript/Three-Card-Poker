@@ -5,8 +5,8 @@ If you require any assistance, please do not hesitate to contact the developer u
 
 *   [Download](https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist)
 *   [Download2](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist)
-*   <itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist>
-*   itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist
+*   itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist
+*   [1]: itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DesignatedScript/Three-Card-Poker/main/manifest.plist
 
 
 
