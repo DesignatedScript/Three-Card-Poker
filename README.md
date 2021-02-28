@@ -1,3 +1,6 @@
+## Download
+Download The Latest Version Of [Three Card Poker](https://designatedscript.github.io/Three-Card-Poker/download.html)
+
 ## Support
 
 If you require any assistance, please do not hesitate to contact the developer using the email provided below.\
